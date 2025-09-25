@@ -24,7 +24,7 @@ To use this tool, you need to have Python and `scapy` installed. Follow these st
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kingsha777/PRODIGY_CS_5
+   git clone https://github.com/Kingsha777/NetSniffer.git
    ```
 
 2. **Run the Sniffer**: Execute the script with Python. You may need to run it with elevated privileges (e.g., `sudo` on Linux/Mac or as an Administrator on Windows).
